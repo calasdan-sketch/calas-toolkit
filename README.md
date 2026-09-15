@@ -1,7 +1,7 @@
 # Calas Toolkit — every repo on github.com/calasdan-sketch, and what it's for
 
 Updated 2026-09-15. 46 repos: 4 built by Calas, 42 forks of open-source tools.
-"Installed" = a copy already exists on Dan's PC under C:\Users\danie\my-agent\.
+ALL 46 repos are now on Dan's PC (synced 2026-09-15): the 12 core ones under C:\Users\danie\my-agent\<name>, the other 34 as shallow copies under C:\Users\danie\my-agent\toolkit\<name>. Re-run C:\Users\danie\my-agent\toolkit-sync.cmd any time to pull new repos. Exception: searxng cannot be checked out on Windows (a filename with a colon) - run it in Docker from GitHub directly.
 Rule for agents (Claude, Hermes, Jarvis): check this list BEFORE building anything new.
 If a tool below already does the job, use it. Use the fork (calasdan-sketch/<name>) so
 patches stay ours; run `git pull upstream` to pick up the original's updates.
