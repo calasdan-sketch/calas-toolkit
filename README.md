@@ -13,6 +13,8 @@ patches stay ours; run `git pull upstream` to pick up the original's updates.
 | calas-reception | Cara, the AI phone receptionist: multi-tenant backend + ElevenLabs phone bridge | Code done; bridge not hosted yet |
 | claude-bridge | Jarvis's brain — shared notes store all Claude surfaces read/write | Running on Dan's PC |
 | shopify-autods-app | Dropship agent (Shopify + AutoDS + Claude) with mock mode | Waiting on AutoDS API |
+| watchpost | Cybersecurity product: honeypot + detect/report; Guardian anti-scam module | In build (private repo) |
+| watchpost-agent | Watchpost's CrowdSec reporter, policy gate, mobile prototype, defense-only handoff | In build (private repo) |
 
 ## B. Agent brains & memory (run our bots)
 | Repo | Plain-language purpose | Installed | Use it when |
